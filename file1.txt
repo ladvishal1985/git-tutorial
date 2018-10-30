@@ -14,4 +14,6 @@ This is commit for today 1
 
 This is commit for today 2
 
+This is commit for today 3 from branch 1
 
+This is commit for today 4 from branch 1
