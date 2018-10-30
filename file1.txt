@@ -7,3 +7,6 @@ This is a commit on the first branch
 This is a test commit for local 
 
 This is 1st commit on branch2
+This is commit for today 1
+
+This is commit for today 2
